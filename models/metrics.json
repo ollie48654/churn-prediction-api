@@ -1,0 +1,12 @@
+{
+  "model": "XGBoost",
+  "test_roc_auc": 0.8403,
+  "comparison": {
+    "logistic_regression": 0.8422,
+    "random_forest": 0.8259,
+    "xgboost": 0.8403
+  },
+  "n_features": 35,
+  "n_train_samples": 5634,
+  "churn_rate": 0.2654
+}
