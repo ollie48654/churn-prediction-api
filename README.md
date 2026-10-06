@@ -3,7 +3,7 @@
 > XGBoost classifier predicting customer churn probability, 
 > served as a live REST API via FastAPI and deployed on Render.
 
-**Live API:** https://churn-prediction-api.onrender.com/docs
+**Live API:**(https://churn-prediction-api-1zsi.onrender.com/docs)
 
 ---
 
